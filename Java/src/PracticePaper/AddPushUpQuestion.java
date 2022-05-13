@@ -149,18 +149,6 @@ public class AddPushUpQuestion {
         Thread.sleep(2000);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
         //Take Screen Shot
         File bottomscreenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
         try {
